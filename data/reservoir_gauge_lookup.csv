@@ -1,0 +1,73 @@
+grand_id,reservoir,state,lake_id,nwis_site_no,gauge_name,gauge_distance_km,name_check,gauge_reports,storage_days,elev_code,elevation_days,swot_status,swot_good_obs,swot_level_range_m,capacity_mcm,area_km2,usable,why_not
+61,Alder Lake,WA,7830177303,12085000,"ALDER RESERVOIR AT ALDER, WA",0.17,ok,storage,1189,,0,clean,109,12.8,297.5,10.03,yes,
+1220,Bardwell Lake,TX,7510073603,08063700,"Bardwell Lk nr Ennis, TX",0.27,ok,elevation,0,62614,1186,clean,42,5.78,391.6,11.8,yes,
+1273,Belton Reservoir,TX,7510104543,08102000,"Belton Lk nr Belton, TX",0.45,ok,elevation,0,62614,1189,clean,124,10.93,2314.9,42.6,yes,
+1230,Cedar Creek Reservoir,TX,7510103403,08063010,"Cedar Ck Res nr Trinidad, TX",9.36,ok,storage + elevation,1189,62614,1184,clean,94,1.51,1338.3,118.06,yes,
+1217,Champion Creek Reservoir,TX,7510100013,08123600,"Champion Ck Res nr Colorado City, TX",0.68,ok,elevation,0,62614,1173,clean,120,2.62,111.3,1.22,yes,
+99,Cottage Grove Lake,OR,7820004443,14153000,"COTTAGE GROVE LAKE NR COTTAGE GROVE, OR",0.58,ok,elevation,0,62614,1189,clean,35,11.16,61.7,2.54,yes,
+210,Don Pedro Reservoir,CA,7740010893,11287500,DON PEDRO RES NR LA GRANGE CA,0.31,ok,storage,1189,,0,clean,112,15.53,2504.0,41.55,yes,
+165,Donner Lake,CA,7730000603,10338400,DONNER LK NR TRUCKEE CA,3.56,ok,storage + elevation,1189,62614,1189,clean,39,2.82,12.7,3.18,yes,
+90,Fern Ridge Lake,OR,7820005693,14168000,"FERN RIDGE LAKE NEAR ELMIRA, OR",0.49,ok,elevation,0,62614,1189,clean,207,4.66,149.3,26.69,yes,
+1029,Grand Lake,OK,7420348653,07190000,"Lake O' the Cherokees at Langley, OK",0.24,ok,storage,1189,,0,clean,104,3.2,2710.0,101.64,yes,
+174,Hell Hole Reservoir,CA,7740008313,11428700,HELL HOLE RES NR MEEKS BAY CA,0.78,ok,storage,823,,0,clean,38,33.34,257.1,3.14,yes,
+179,Ice House Reservoir,CA,7740006963,11441100,ICE HOUSE RES NR KYBURZ CA,0.73,ok,storage,823,,0,clean,55,11.87,45.8,2.57,yes,
+1095,Lake Altus,OK,7420193563,07302500,"Lake Altus at Lugert, OK",0.47,ok,storage,1189,,0,clean,217,6.15,163.8,20.44,yes,
+1194,Lake Benbrook,TX,7510075023,08046500,"Benbrook Lk nr Benbrook, TX",0.62,ok,elevation,0,62614,1187,clean,74,6.02,505.7,12.12,yes,
+1182,Lake Fork Reservoir,TX,7510140043,08018800,"Lake Fk Res nr Quitman, TX",0.43,ok,storage + elevation,1189,62614,1187,clean,99,1.18,1293.3,93.17,yes,
+1114,Lake Frederick,OK,7420184383,07311415,"Lake Frederick nr Frederick, OK",0.34,ok,storage,134,,0,clean,139,2.89,15.3,2.72,yes,
+1110,Lake Fuqua,OK,7420183563,07329610,"Lake Fuqua near Duncan, OK",0.31,ok,storage,1189,,0,clean,61,2.78,37.2,4.8,yes,
+1061,Lake Hefner,OK,7420176273,07159550,"Lake Hefner at Oklahoma City, OK",1.24,ok,storage,1189,,0,clean,118,2.66,132.5,9.33,yes,
+1104,Lake Lawtonka,OK,7420183443,07309500,"Lake Lawtonka near Lawton, OK",0.12,ok,storage,1187,,0,clean,65,1.67,109.4,8.13,yes,
+1266,Lake Limestone,TX,7510043303,08110470,"Lk Limestone nr Marquez, TX",1.1,ok,elevation,0,62614,1156,clean,99,1.45,688.1,45.33,yes,
+1287,Lake Livingston,TX,7510138853,08066190,"Livingston Res nr Goodrich, TX",0.53,ok,storage + elevation,1189,62614,1187,clean,153,1.85,2522.5,219.58,yes,
+1183,Lake Ray Hubbard,TX,7510035543,08061550,"Lk Ray Hubbard nr Forney, TX",0.62,ok,elevation,0,62614,1189,clean,38,1.46,719.9,79.89,yes,
+1181,Lake Tawakoni,TX,7510103363,08017400,"Lk Tawakoni nr Wills Point, TX",0.81,ok,storage + elevation,1189,62614,1187,clean,67,1.97,2047.6,137.67,yes,
+1247,Lake Whitney,TX,7510082223,08092500,"Whitney Lk nr Whitney, TX",0.52,ok,elevation,0,62614,1188,clean,82,5.2,2590.8,70.56,yes,
+1184,Lake Worth,TX,7510074813,08045400,"Lk Worth abv Ft Worth, TX",0.18,ok,storage + elevation,1189,62615,1177,clean,48,1.28,118.7,11.06,yes,
+1285,Laneport Reservoir,TX,7510102473,08105600,"Granger Lk nr Granger, TX",1.06,ok,elevation,0,62614,1168,clean,73,3.75,692.1,15.28,yes,
+1164,Lewisville Lake,TX,7510072483,08052800,"Lewisville Lk nr Lewisville, TX",0.5,ok,elevation,0,62614,1130,clean,97,3.87,2569.1,65.48,yes,
+176,Loon Lake,CA,7740007663,11429350,LOON LK NR MEEKS BAY CA,2.39,ok,storage,823,,0,clean,31,6.46,94.4,4.66,yes,
+184,Lower Bear River Reservoir,CA,7740008373,11315600,LOWER BEAR R RES NR NICHOLL CA,0.24,ok,storage,823,,0,clean,69,19.65,66.6,2.12,yes,
+1219,Martin Lake,TX,7510148873,08022060,"Martin Lk nr Tatum, TX",2.14,ok,elevation,0,62614,1189,clean,46,1.72,224.9,17.02,yes,
+1150,Millers Creek Reservoir,TX,7510091653,08082800,"Millers Ck Res nr Bomarton, TX",2.4,ok,elevation,0,62614,1168,clean,194,2.89,161.6,2.76,yes,
+1237,Navarro Mills Lake,TX,7510079023,08063050,"Navarro Mills Lk nr Dawson, TX",1.0,ok,elevation,0,62614,1189,clean,45,5.72,414.2,15.98,yes,
+619,Pyramid Lake,CA,7740029303,11109520,PYRAMID LK NR GORMAN CA,0.08,ok,storage,316,,0,clean,76,3.71,210.9,4.41,yes,
+1151,Ray Roberts Lake,TX,7510072043,08051100,"Ray Roberts Lk nr Pilot Point, TX",0.23,ok,elevation,0,62614,1188,clean,140,2.85,2383.0,68.71,yes,
+1275,Sam Rayburn Reservoir,TX,7510152253,08039300,"Sam Rayburn Res nr Jasper, TX",0.44,ok,elevation,0,62614,1189,clean,44,5.39,7815.6,380.2,yes,
+590,Shaver,CA,7740004473,11239500,SHAVER LK NR BIG C CA,0.12,ok,storage,823,,0,clean,30,11.96,166.9,7.78,yes,
+1074,Shawnee Reservoir,OK,7420176423,07241600,"Shawnee Reservoir at Shawnee, OK",0.44,ok,storage,1189,,0,clean,35,1.64,45.0,4.1,yes,
+89,South Fork Mckenzie River,OR,7820005433,14159400,"COUGAR LAKE NEAR RAINBOW, OR",0.4,ok,elevation,0,62614,1188,clean,99,26.62,270.1,2.83,yes,
+1277,Stillhouse Hollow Reservoir,TX,7510079663,08104050,"Stillhouse Hollow Lk nr Belton, TX",0.12,ok,elevation,0,62614,1183,clean,104,10.14,1250.5,23.46,yes,
+1153,Texarkana Lake,TX,7420016953,07344200,"Wright Patman Lk nr Texarkana, TX",0.21,ok,elevation,0,62614,1181,clean,72,4.88,7068.8,84.38,yes,
+152,Thermalito Afterbay,CA,7740049023,11406870,THERMALITO AFTERBAY NR OROVILLE CA,0.5,ok,storage,823,,0,clean,34,1.83,70.3,12.53,yes,
+133,Whiskeytown,CA,7740046793,11371700,WHISKEYTOWN LK NR IGO CA,2.33,ok,storage,822,,0,clean,36,3.02,263.4,11.08,yes,
+1177,,TX,7510104533,08045000,"Eagle Mtn Res abv Ft Worth, TX",3.49,review,storage + elevation,1187,62615,1185,clean,68,2.8,839.2,29.07,no,check the gauge name
+192,Beardsley Lake,CA,7740008023,11292800,BEARDSLEY LAKE NEAR STRAWBERRY CA,0.36,ok,storage,1189,,0,clean,19,16.67,120.6,1.83,no,too few good SWOT observations
+144,Black Butte Lake,CA,7740044263,11387995,BLACK BUTTE LK NR ORLAND CA,0.18,ok,neither since 2023-07,0,,0,clean,60,10.83,177.3,10.34,no,no gauge data since SWOT launch
+365,Brownlee,ID-OR,7820016663,13289700,BROWNLEE RES AT BROWNLEE DAM ID-OR STATE LINE,0.26,ok,neither since 2023-07,0,,0,clean,96,14.09,1751.6,43.61,no,no gauge data since SWOT launch
+138,Canyon,CA,7740042633,11399000,LK ALMANOR A PRATTVILLE CA,7.65,ok,storage,823,,0,clean,8,1.36,1613.4,102.87,no,too few good SWOT observations
+131,Clair Engle Lake,CA,7740048553,11525400,TRINITY LAKE NR LEWISTON CA,0.29,ok,storage,822,,0,clean,16,19.36,2633.5,56.28,no,too few good SWOT observations
+1152,Cooper Lake,TX,7420000183,07342495,"Jim L. Chapman Lk nr Cooper, TX",0.73,review,elevation,0,62614,1178,clean,134,2.96,983.5,40.44,no,check the gauge name
+593,Courtright Reservoir,CA,7740035183,11214550,COURTRIGHT RES NR NELSON MTN CA,0.39,ok,storage,823,,0,clean,18,16.09,151.7,3.92,no,too few good SWOT observations
+80,Detroit Lake,OR,7820001863,14180500,"DETROIT LAKE NEAR DETROIT, OR",0.35,ok,elevation,0,62614,1189,clean,13,17.74,561.2,8.45,no,too few good SWOT observations
+545,Donnell Lake,CA,7740008793,11292600,DONNELL LK NR DARDANELLE CA,0.31,ok,storage,1189,,0,clean,14,14.66,80.2,1.33,no,too few good SWOT observations
+97,Dorena Lake,OR,7820005793,14155000,"DORENA LAKE NEAR COTTAGE GROVE, OR",0.16,ok,elevation,0,62614,1189,clean,6,7.11,161.6,4.16,no,too few good SWOT observations
+581,Florence,CA,7740035203,11229600,FLORENCE LK NR BIG C CA,0.2,ok,storage,823,,0,clean,10,7.17,79.4,1.88,no,too few good SWOT observations
+159,Fordyce Lake,CA,7740043203,11414090,FORDYCE LK NR CISCO CA,0.19,ok,storage,823,,0,clean,16,11.98,60.3,2.05,no,too few good SWOT observations
+83,Green Peter Lake,OR,7820004363,14186100,"GREEN PETER LAKE NEAR FOSTER, OR",0.24,ok,elevation,0,62614,1187,clean,29,29.93,530.4,11.04,no,too few good SWOT observations
+592,Hensley Lake,CA,7740010713,11257950,HENSLEY LK NR DAULTON CA,0.39,ok,neither since 2023-07,0,,0,clean,59,14.68,111.0,3.68,no,no gauge data since SWOT launch
+56,Howard Hanson Reservoir,WA,7830181213,12105800,"HOWARD A HANSON RESERVOIR NEAR PALMER, WA",0.11,ok,storage + elevation,1175,62614,1175,clean,11,5.88,168.6,1.59,no,too few good SWOT observations
+612,Isabella Lake,CA,7740003773,11190500,ISABELLA LK NR LAKE ISABELLA CA,0.33,ok,neither since 2023-07,0,,0,clean,66,12.26,700.6,23.79,no,no gauge data since SWOT launch
+150,Jackson Meadows Reservoir,CA,7740042733,11407800,JACKSON MEADOWS RES NR SIERRA CITY CA,0.11,ok,storage,823,,0,clean,22,9.81,64.8,3.83,no,too few good SWOT observations
+185,Lake Berryessa,CA,7740024723,11453900,LK BERRYESSA NR WINTERS CA,0.2,ok,neither since 2023-07,0,,0,clean,26,5.47,1963.6,66.28,no,no gauge data since SWOT launch; too few good SWOT observations
+145,Little Grass Valley Reservoir,CA,7740043033,11395020,LITTLE GRASS VALLEY RES NR LAPORTE CA,0.24,ok,storage,823,,0,clean,17,9.73,114.7,5.89,no,too few good SWOT observations
+524,Marlette Lake,NV,7730000883,10336710,"MARLETTE LAKE NR CARSON CITY, NV",0.09,ok,storage + elevation,1189,00062,1189,clean,25,7.39,15.7,1.53,no,too few good SWOT observations
+993,Osage,MO,7420349683,06925500,"Lake of the Ozarks near Bagnell, MO",0.4,ok,neither since 2023-07,0,,0,clean,95,2.13,3302.0,175.89,no,no gauge data since SWOT launch
+589,Redinger Lake,CA,7740038013,11241950,REDINGER LK NR AUBERRY CA,0.01,ok,storage,823,,0,clean,7,2.15,43.2,1.21,no,too few good SWOT observations
+475,Rye Patch Reservoir,NV,7730006453,10334500,"RYE PATCH RES NR RYE PATCH, NV",0.24,ok,neither since 2023-07,0,,0,clean,61,5.64,24.9,40.54,no,no gauge data since SWOT launch
+147,Sly Creek Reservoir,CA,7740042443,11395400,SLY C RES NR STRAWBERRY VALLEY CA,0.11,ok,storage,823,,0,clean,13,7.23,80.2,2.18,no,too few good SWOT observations
+544,Spicer Meadow Reservoir,CA,7740007973,11293770,NEW SPICER MEADOW RES NR BIG MEADOW CA,0.18,ok,storage,823,,0,clean,18,11.86,238.1,4.0,no,too few good SWOT observations
+151,Stampede,CA,7730007313,10344300,STAMPEDE RES NR BOCA CA,0.44,ok,storage + elevation,1189,62614,1187,clean,25,7.72,273.3,12.93,no,too few good SWOT observations
+1026,Table Rock Lake,MO,7420346453,07053400,"Table Rock Lake near Branson, MO",0.25,ok,neither since 2023-07,0,,0,clean,66,5.66,4270.3,118.07,no,no gauge data since SWOT launch
+1137,Truscott Brine Lake,TX,7420193803,07311669,"Truscott Brine Lk nr Truscott, TX",0.19,ok,neither since 2023-07,0,,0,clean,166,1.59,143.3,6.24,no,no gauge data since SWOT launch
+204,Tulloch Reservoir,CA,7740011553,11299995,TULLOCH RES NR KNIGHTS FERRY CA,0.23,ok,storage,1189,,0,clean,25,6.07,84.4,3.17,no,too few good SWOT observations

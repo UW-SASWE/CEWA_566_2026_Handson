@@ -1,0 +1,16 @@
+reservoir,state,lat,capacity_mcm,area_km2,dark_frac,wse_u_m,n_days,rmse_m,r
+Lake Ray Hubbard,TX,32.8,719.9,35.76,0.003,0.002,46,0.056,0.99
+Richland-Chambers Reservoir,TX,31.95,2150.0,155.05,0.003,0.001,69,0.059,0.985
+Sam Rayburn Reservoir,TX,31.06,7815.6,352.28,0.028,0.001,54,0.065,0.999
+Lake Whitney,TX,31.87,2590.8,70.35,0.005,0.001,72,0.066,0.996
+Cedar Creek Reservoir,TX,32.18,1338.3,93.63,0.01,0.001,100,0.066,0.992
+Lake Tawakoni,TX,32.81,2047.6,144.71,0.003,0.001,61,0.07,0.983
+Granger Lake (Laneport Dam),TX,30.69,692.1,16.79,0.021,0.002,80,0.072,0.994
+Lake Livingston,TX,30.63,2522.5,210.77,0.017,0.001,23,0.078,0.979
+Wright Patman Lake (Texarkana Dam),TX,33.31,7068.8,97.29,0.039,0.001,74,0.083,0.995
+Lake Limestone,TX,31.33,688.1,47.42,0.027,0.002,97,0.084,0.976
+Ray Roberts Lake,TX,33.36,2383.0,107.09,0.008,0.001,130,0.088,0.984
+Lewisville Lake,TX,33.07,2569.1,6.63,0.011,0.007,94,0.089,0.99
+Milford Lake,KS,39.08,1412.3,0.54,0.065,0.015,51,0.302,0.745
+Green Peter Lake,OR,44.45,530.4,11.71,0.095,0.0055,34,0.313,1.0
+Grand Coulee Dam (Lake Roosevelt),WA,47.95,6395.6,185.9,0.068,0.002,137,0.336,0.992
